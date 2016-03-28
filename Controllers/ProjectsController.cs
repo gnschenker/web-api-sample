@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
             new Project {id = 1, name = "Pears"},
             new Project {id = 2, name = "Apples"},
             new Project {id = 3, name = "Oranges"},
+            new Project {id = 4, name = "Peanuts"},
         };
 
         [HttpGet]
